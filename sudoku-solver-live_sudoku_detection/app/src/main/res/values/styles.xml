@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar.Fullscreen">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="CustomProgressDialog" parent="android:Theme.DeviceDefault.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">Processing...</item>
+        <item name="DialogSpotColor">@color/lime</item>
+        <item name="DialogSpotCount">4</item>
+    </style>
+
+
+</resources>
+
